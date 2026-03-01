@@ -66,3 +66,19 @@ Add buzzer sound when lid opens
 Add trash level detection sensor
 Improve physical casing and wiring organization
 Optimize and clean up code
+
+Project Files
+
+Smart-Trashbin-Arduino/
+── README.md
+── SmartTrashbin.ino
+── circuit_diagram.png
+── documentation.pdf
+
+Group Members:
+Janrey E. Guco
+Hanz Mathew W. Manaiz
+Kyle Valmorida 
+Lemjohn Edelion
+Vincent Galamiton
+Justine Ravida
