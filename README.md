@@ -14,9 +14,9 @@ Improve hygiene and convenience in waste disposal.
  
  Components
 
-•Arduino Board (e.g., Arduino Uno)
+•Arduino Uno
 •Ultrasonic Sensor (HC-SR04)
-•Servo Motor (SG90 or similar)
+•Servo Motor (SG90)
 •Jumper Wires (Male-to-Male)
 •Breadboard
 •USB Cable
