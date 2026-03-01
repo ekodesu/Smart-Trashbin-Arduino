@@ -75,6 +75,11 @@ Smart-Trashbin-Arduino/
 ── circuit_diagram.png
 ── documentation.pdf
 
+Final project version
+- Cleaned up and commented code
+- Verified full system functionality
+- Prepared repository for submission
+
 Group Members:
 Janrey E. Guco
 Hanz Mathew W. Manaiz
