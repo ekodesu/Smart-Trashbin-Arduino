@@ -3,6 +3,7 @@ Smart Trashbin Arduino Project
  Project Overview
 
 The Smart Trashbin Arduino Project is an automated waste disposal system designed to promote hygiene and convenience. The trash bin automatically opens its lid when a hand or object is detected nearby using an ultrasonic sensor. The system is controlled by an Arduino microcontroller and a servo motor.
+
 This project helps reduce physical contact with trash bins, minimizing the spread of germs and encouraging proper waste disposal.
 
  Objectives
