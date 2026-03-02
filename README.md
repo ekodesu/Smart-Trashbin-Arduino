@@ -1,4 +1,4 @@
-Smart Trashbin Arduino Project
+**Smart Trashbin Arduino Project**
  
  Project Overview
 
